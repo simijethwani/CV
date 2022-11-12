@@ -1,0 +1,21 @@
+body {
+  background-color: #FF8787 ;
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #D8D9CF ;
+  border-width: 5px ;
+
+  width: 6% ;
+}
+h1 {
+  color:  #EDEDED ;
+  font-style: italic;
+  font-family: cursive ;
+}
+h3 {
+  color:  #EDEDED ;
+}
